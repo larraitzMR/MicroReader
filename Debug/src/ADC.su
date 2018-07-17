@@ -1,0 +1,6 @@
+ADC.c:22:6:ADC_Config	40	static
+ADC.c:81:6:ADC_Init	8	static
+ADC.c:91:6:DMA_Config	16	static
+ADC.c:116:6:DMA_Init	8	static
+ADC.c:126:6:HAL_ADC_ConvCpltCallback	16	static
+ADC.c:146:6:valorTension	16	static

@@ -1,0 +1,5 @@
+spi.c:15:6:SPI_Config	40	static
+spi.c:107:6:SPI_Init	8	static
+spi.c:126:6:SPI_DeInit	8	static
+spi.c:158:10:Buffercmp	24	static
+spi.c:179:6:Flush_Buffer	16	static
